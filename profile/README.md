@@ -27,7 +27,7 @@ You'll need
   - Examples and developer API documentation [here](https://www.postman.com/okahuai).
     - Requires a free Postman account. 
 - A sample AI app hosted in the cloud
-  - Get a simple python chatbot app [here](https://github.com/okahu/okahu-demo-openai.git) that you can run in Github Codespaces.
+  - Get a simple python chatbot app [here](https://github.com/okahu/okahu-demo-openai) that you can run in Github Codespaces.
     - Requires an OpenAI API key. 
 
 ### Engage with the Okahu team
